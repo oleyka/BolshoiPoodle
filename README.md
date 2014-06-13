@@ -1,4 +1,4 @@
 Bolshoi Poodle Registry USSR
 ==
 
-This project is currently stalled.
+This project is currently stalled...
