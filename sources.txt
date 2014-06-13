@@ -1,3 +1,1 @@
 A number of source files (*.doc) are avalable for conversion.
-
-To be uploaded later.
