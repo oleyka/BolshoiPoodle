@@ -3,4 +3,4 @@ Bolshoi Poodle Registry USSR
 
 This project is currently stalled...
 
-origin/master
+local/data_entry
